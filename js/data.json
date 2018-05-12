@@ -1,0 +1,43 @@
+var persons = [{
+	"name": "John",
+	"surname": "Doe", 
+	"favoritePerformers": ["Justin Timberlake", "Ed Sheeran", "Emma Watson"], 
+	"age": 25, 
+	"myPhoto": "img/boy1.800x1000.jpg", 
+	"likes": 0
+}, {
+	"name": "James", 
+	"surname": "Franklin", 
+	"favoritePerformers": ["Justin Bieber", "Eminem", "Lil Wayne"], 
+	"age": 27, 
+	"myPhoto": "img/boy2.800x1000.jpg", 
+	"likes": 0
+}, {
+	"name": "Emily", 
+	"surname": "May",
+	"favoritePerformers": ["Diplo", "Drake", "Rihanna"], 
+	"age": 23, 
+	"myPhoto": "img/girl1.800x1000.jpg", 
+	"likes": 0
+}, {
+	"name": "Rebecca", 
+	"surname": "Michaels", 
+	"favoritePerformers": ["Arianna Grande", "The Weekend", "Madonna"], 
+	"age": 19, 
+	"myPhoto": "img/girl2.800x1000.jpg", 
+	"likes": 0
+}, {
+	"name": "Sarah", 
+	"surname": "ODonnel", 
+	"favoritePerformers": ["Alfons", "Marshmello", "AronChupa"], 
+	"age": 23, 
+	"myPhoto": "img/image1.jpg", 
+	"likes": 0
+}, {
+	"name": "Marie", 
+	"surname": "Dolton", 
+	"favoritePerformers": ["DJ Khalid", "The Weekend", "Usher"], 
+	"age": 21, 
+	"myPhoto": "img/image2.jpg", 
+	"likes": 0
+}];
